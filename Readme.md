@@ -2,18 +2,6 @@
 
 Welcome to my **GitHub Activity Repository**! This repository showcases my GitHub stats, commit streaks, and contributions dynamically.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yameenaliabro&show_icons=true&theme=radical)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yameenaliabro&theme=highcontrast)
-
-## 📌 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yameenaliabro&layout=compact&theme=dark)
-
 ## 📈 Activity Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yameenaliabro&theme=react-dark)
